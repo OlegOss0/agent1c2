@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">agent1c</string>
+    <string name="btnStart">Запустить сервис</string>
+    <string name="btnRead">Прочитать данные</string>
+    <string name="btnClear">Очистить данные</string>
+    <string name="get_list_services">Список запущенных сервисов</string>
+</resources>
